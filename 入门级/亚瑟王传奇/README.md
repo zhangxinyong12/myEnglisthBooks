@@ -1,3 +1,6 @@
+# 亚瑟王传奇
+
+```
 It is the year 650 in England. There is no king and
 people are fighting.
 One night Merlin the magician has a dream ...
@@ -382,3 +385,38 @@ Table!
 再见，兰斯洛特。找到吉尼维尔，照顾她。
 是，陛下。
 永远不要忘记亚瑟王和“圆桌”的魔力！
+```
+
+### 故事情节
+
+1. **亚瑟称王**：公元 650 年的英格兰无国王，战乱纷争。魔法师墨林梦到伟大国王亚瑟，他制作魔法石并插入宝剑，只有真国王能拔出。男孩亚瑟成功拔出剑，成为国王。墨林教导亚瑟四年，助其成长为强大的君主。
+2. **亚瑟的抉择与发展**：亚瑟打败北方诸侯，巩固统治。他结识吉尼维尔并决定娶她为妻，不顾墨林的警告。亚瑟建造卡米洛城堡，吉尼维尔送他大圆桌，亚瑟通过比赛选拔出兰斯洛特等最强骑士，组建圆桌骑士团，国家繁荣，人们安居乐业。
+3. **危机浮现**：摩根和莫德雷德来到卡米洛，起初友好。但摩根预见亚瑟死亡，企图让儿子莫德雷德篡位。莫德雷德向亚瑟进谗言，称吉尼维尔与兰斯洛特相爱，亚瑟怒逐兰斯洛特，此后无心治国，国家再度陷入混乱。
+4. **最终对决与悲剧结局**：莫德雷德趁机篡位，亚瑟得知后与骑士返程。找到兰斯洛特时，得知王后入狱。众人赶回卡米洛，亚瑟与莫德雷德约定次日决斗，却因蛇引发意外战斗。最终亚瑟的骑士与士兵战死，亚瑟重伤临死，兰斯洛特赶来，亚瑟让他扔掉宝剑，一只手从水中伸出接走亚瑟，他嘱托兰斯洛特照顾吉尼维尔 。
+
+### 语法要点
+
+1. **一般现在时与一般过去时**：故事主要以一般过去时叙述，描述过去发生的事件，如 “It was the year 650 in England. There was no king and people were fighting.” 。一般现在时偶尔用于直接引语，如人物对话中， “I see a wonderful king.”
+2. **情态动词**：
+   - “can” 及其过去式 “could” 用于表示能力或可能性，如 “Only the true king can pull out the sword.” （只有真正的国王能拔出剑） 。
+   - “must” 表示必要性或义务，如 “I must leave you now. I am losing my magic.” （我现在必须离开你。我正在失去我的魔力） 。
+3. **宾语从句**：用于传达人物的想法、言语或信息，如 “I see a dark future for you and Guinevere. Don't marry her!” 中 “a dark future for you and Guinevere” 是 “see” 的宾语 ；“Arthur tells Guinevere about the dream.” 也是常见的主谓宾结构，“the dream” 作宾语。
+4. **定语从句**：文中虽未大量出现，但像 “The lords from the North are coming to fight you.” ，“from the North” 可视为对 “The lords” 的后置定语，起到类似定语从句的限定作用。
+5. **祈使句**：用于表达命令、请求或建议，如 “Come to my castle. Let's eat and drink all night!” “Kill the snake!” 等 。
+
+### 词汇要点
+
+1. **人物与身份相关**：
+   - “magician”（魔法师），如 “Merlin the magician” 。
+   - “king”（国王）、“queen”（王后）、“lord”（领主）、“knight”（骑士）、“soldier”（士兵）、“traitor”（叛徒）等，构建起故事的人物阶层体系。
+   - “half - sister”（同父异母的姐姐） 。
+2. **动作相关**：
+   - “pull”（拉、拔），如 “Arthur pulls hard.” 。
+   - “fight”（战斗、打仗），常见搭配 “fight against sb.” 或 “fight for sth.”，文中多处出现战斗场景 。
+   - “marry”（结婚），“Arthur marries Guinevere.” 。
+   - “look after”（照顾），“Find Guinevere and look after her.” 。
+3. **其他**：
+   - “magic”（魔法；神奇的），形容词 “magical” ，文中围绕魔法石、魔法剑展开情节 。
+   - “castle”（城堡） 。
+   - “sword”（剑） 。
+   - “table”（桌子），文中 “round table”（圆桌） 具有特殊意义 。
